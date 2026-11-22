@@ -1,0 +1,2 @@
+# stockpilot
+inventory management software
